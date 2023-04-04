@@ -1,0 +1,4 @@
+Make DB named dishadvisor in xampp.
+Then import dish_advisor.sql file into DB.
+
+Project belongs to Vatsal(21DCE034), Divy(21DCE036) DEPSTAR, Chnaga.
